@@ -2,7 +2,7 @@ logs/
 results/
 generated_tests/
 tmp/
-.env
+
 k8s-config.yaml
 venv/
 .DS_Store

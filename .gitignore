@@ -4,6 +4,7 @@ tmp/
 venv/
 snippets/results/
 snippets/generated_tests/
+snippets/generated_tests-01/
 .DS_Store
 .huskyrc.json
 out

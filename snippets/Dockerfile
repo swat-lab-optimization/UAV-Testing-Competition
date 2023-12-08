@@ -11,3 +11,6 @@ RUN mkdir -p ./logs/ ./results/ ./generated_tests/
 ENV AGENT local
 ENV AVOIDANCE_LAUNCH /src/aerialist/aerialist/resources/simulation/collision_prevention.launch
 ENV AVOIDANCE_BOX /src/aerialist/aerialist/resources/simulation/box.xacro
+
+
+
