@@ -124,7 +124,7 @@ if __name__ == "__main__":
             mutation=MUTATIONS[mutation](),
             n_points_per_iteration=pop_size,
             eliminate_duplicates=AbstractDuplicateElimination(
-                generator=generator, threshold=0.02
+                generator=generator, threshold=0.05
             ),
         )
 
